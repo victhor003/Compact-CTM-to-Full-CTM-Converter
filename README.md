@@ -1,4 +1,4 @@
-# Compact-CTM-to-Full-CTM-Converter
+# Compact CTM to Full CTM Converter
 My first app, and a simple python program to convert optifine's compact CTM images to a full CTM. The program composes the images in the same order and way that optifine does it in-game, but because it's a full CTM there is less chance of the lighting engine to bug out. The main use for this program originally was to make it easier to prepare textures for the overlay_CTM method wich doesn't support compact_CTM natively.
 
 How to use: 
