@@ -282,7 +282,7 @@ def mount_ctms(a_list, b_list, c_list, d_list, e_list, mode):
             9: (c1, a2, c3, a4),
             10: (d1, b2, a3, c4),
             11: (b1, d2, c3, a4),
-            12: (b1, d2, b3, d4),
+            12: (d1, b2, d3, b4),
             13: (b1, b2, c3, c4),
             14: (a1, e2, a3, a4),
             15: (d1, d2, a3, a4),
