@@ -30,5 +30,6 @@ IMAGES:
 Image 1:
 ![Main Window](https://user-images.githubusercontent.com/45216050/111821181-a8bee000-88e2-11eb-9c9e-afa0f0bf7841.png)
 Image 2:
-![Overlay Window](https://user-images.githubusercontent.com/45216050/111821229-b2484800-88e2-11eb-884a-bea25187298e.png)
+![Overlay Window](https://user-images.githubusercontent.com/45216050/111828851-318e4980-88ec-11eb-91e6-e30dfcc0c984.png)
+
 
