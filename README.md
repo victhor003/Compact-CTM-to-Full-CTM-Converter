@@ -11,3 +11,24 @@ How to use:
 7. If you've done everything correctly, you will find the 47 pngs on the output folder, ready to use directly by optifine.
  * **Warning, the program doesn't care if it overwrites something.**
  * If the program can't find the images, it will tell you wich images it can't find, make sure that the files are named EXACTLY as it tells you(0.png, 1.png, 2.png, 3.png and 4.png). These files must comply with optifine's compact_CTM template for the program to output correctly.
+
+
+**#Ver 1.1 is out!**
+
+1.Added a whole new compositing mode:
+```
+OVERLAY MODE:
+A mode in wich you only need to input 4 images(As seen on Image 2) and it will
+output all the images you need for the overlay method of optifine!
+```
+2.Optimized some of the code and reorganized it.
+
+
+
+IMAGES:
+
+Image 1:
+![Main Window](https://user-images.githubusercontent.com/45216050/111821181-a8bee000-88e2-11eb-9c9e-afa0f0bf7841.png)
+Image 2:
+![Overlay Window](https://user-images.githubusercontent.com/45216050/111821229-b2484800-88e2-11eb-884a-bea25187298e.png)
+
